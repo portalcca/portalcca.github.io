@@ -8,8 +8,8 @@ permalink: /
 
 # Documentación para el Portal de Colecciones de Centroamérica
 
-El Portal de Colecciones de Centroamérica es una plataforma especializada en la digitalización y movilización de Colecciones Biológicas de la región, basada en el software [Symbiota](https://symbiota.org/es). Es administrado por [_responsables_] y mantenido por el [Symbiota Support Hub](https://symbiota.org/ayuda/), en apoyo a instituciones científicas locales.  
-{: .fs-6 .fw-300 }
+Plataforma especializada en la digitalización y movilización de Colecciones Biológicas de la región, basada en el software [Symbiota](https://symbiota.org/es). Es administrado por [_responsables_] y mantenido por el [Symbiota Support Hub](https://symbiota.org/ayuda/), en apoyo a instituciones científicas locales.  
+{: .fs-6 .fw-200 }
 
 [Guía Rápida](https://portalcca.github.io/docs/usuarios/guia/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Perfiles de Colecciones](https://portalcca.github.io/docs/colecciones/manejo/){: .btn .fs-5 .mb-4 .mb-md-0 } 
 [Talleres y Charlas](https://portalcca.github.io/docs/acerca/actividades/){: .btn btn-blue .fs-5 .mb-4 .mb-md-0 } 
