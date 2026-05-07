@@ -1,11 +1,11 @@
-# Documentación para el Portal de Biodiversidad de Guatemala
+# Documentación para el Portal de Colecciones de Centroamérica
 
-Información general acerca del manejo de colecciones biológicas y datos de biodiversidad en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt). 
+Información general acerca del manejo de colecciones biológicas y datos de biodiversidad en el Portal de Colecciones de Centroamérica.
 
-Sitio web [aquí](https://guatemalaportal.github.io).
+Sitio web [aquí](https://portalcca.github.io).
 
 # Contactos
 
-- Samanta Orellana, Arizona State University, sorellana@asu.edu.
+- Samanta Orellana, Universidad de Kansas, samanta.orellana [at] ku.edu
 
 
