@@ -1,6 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
-title: Documentación Portal de Biodiversidad
-description: Documentación para el Portal de Biodiversidad de Guatemala
+title: Documentación Portal de Colecciones de CA
+description: Documentación para el Portal de Colecciones de Centroamérica
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
