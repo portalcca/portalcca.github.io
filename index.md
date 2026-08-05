@@ -2,7 +2,7 @@
 layout: default
 title: Inicio
 nav_order: 1
-description: "Portal de Biodiversidad de Guatemala"
+description: "Portal de Biodiversidad de CA"
 permalink: /
 ---
 
