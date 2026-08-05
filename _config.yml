@@ -48,7 +48,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Portal de Biodiversidad de CA":
+  "Portal de Colecciones de CA":
     - "https://centroamerica.symbiota.org"
 
 # Makes Aux links open in a new tab. Default is false
