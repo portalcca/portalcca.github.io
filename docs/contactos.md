@@ -19,6 +19,7 @@ nav_order: 15
 https://github.com/portalcca/portalcca.github.io/blob/main/static/contacts/HeaderPhotowhite2.png?raw=true
 
 ---
+
 ## Samanta Orellana 
 
 <img style="float: left;" width="300" height="400" alt="SOre" src="https://github.com/samantaorellana/samantaorellana.github.io/blob/main/assets/theme/images/HeaderPhotowhite2.png?raw=true">
@@ -27,6 +28,7 @@ https://github.com/portalcca/portalcca.github.io/blob/main/static/contacts/Heade
 https://github.com/portalcca/portalcca.github.io/blob/main/static/contacts/HeaderPhotowhite2.png?raw=true
 
 ---
+
 ## Samanta Orellana 
 
 <img style="float: left;" width="300" height="400" alt="SOre" src="https://github.com/samantaorellana/samantaorellana.github.io/blob/main/assets/theme/images/HeaderPhotowhite2.png?raw=true">
