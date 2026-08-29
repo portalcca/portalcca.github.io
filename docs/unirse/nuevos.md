@@ -26,13 +26,12 @@ Una cuenta no es necesaria para explorar la información contenida en el [Portal
 
 ## Crear una cuenta
 
-- Ingresar al [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) y dirigirse a la esquina superior derecha y dar clic en "Ingresar"
+- Ingresar al [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) y dirigirse a la esquina superior derecha y dar clic en [**"Iniciar Sesión"**](https://centroamerica.symbiota.org/portal/profile/index.php).
 
-|  <img width="1531" height="874" alt="image" src="https://github.com/user-attachments/assets/22e335d8-5c5d-43b6-b662-41b5ceb09e0b" />
+|  [<img width="1531" height="874" alt="image" src="https://github.com/user-attachments/assets/22e335d8-5c5d-43b6-b662-41b5ceb09e0b" />](https://centroamerica.symbiota.org/portal/profile/index.php) |
 
 - Crear una [**Nueva Cuenta**](https://centroamerica.symbiota.org/portal/profile/newprofile.php).
-- Completar el formulario para generar una cuenta nueva.
-- Agregar un usuario o _login_ (recomendamos el formato nombre.apellido), nombre, apellido, contraseña (10 caracteres) y un correo electrónico.
+- Completar el formulario con un usuario o _login_ (recomendamos el formato nombre.apellido), nombre, apellido, contraseña (10 caracteres) y un correo electrónico.
 - De manera opcional, pueden agregar el [ORCID](https://orcid.org), título e institución a la que pertenecen.
 - Resolver el captcha y seleccionar la casilla **"No soy un robot"**.
 - Generar cuenta (crear usuario).
