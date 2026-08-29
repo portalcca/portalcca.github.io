@@ -26,7 +26,7 @@ Una cuenta no es necesaria para explorar la información contenida en el [Portal
 
 ## Crear una cuenta
 
-- Ingresar al [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) y dirigirse a la esquina superior derecha y dar clic en [**"Iniciar Sesión"**](https://centroamerica.symbiota.org/portal/profile/index.php).
+- Ingresar al [**Portal de Colecciones de Centroamérica**](https://centroamerica.github.io) y dirigirse a la esquina superior derecha y dar clic en [**"Iniciar Sesión"**](https://centroamerica.symbiota.org/portal/profile/index.php).
 
 |  [<img width="1531" height="874" alt="image" src="https://github.com/user-attachments/assets/22e335d8-5c5d-43b6-b662-41b5ceb09e0b" />](https://centroamerica.symbiota.org/portal/profile/index.php) |
 
