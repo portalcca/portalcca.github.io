@@ -6,7 +6,7 @@ description: "Portal de Biodiversidad de CA"
 permalink: /
 ---
 
-# Documentación para el Portal de Colecciones de Centroamérica
+# **Documentación para el Portal de Colecciones de Centroamérica**
 
 Plataforma especializada en la digitalización y movilización de Colecciones Biológicas de la región, basada en el software [Symbiota](https://symbiota.org/es). Generado y mantenido por el [Symbiota Support Hub](https://symbiota.org/ayuda/) en apoyo a instituciones científicas locales.  
 {: .fs-4 .fw-300 }
