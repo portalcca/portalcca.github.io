@@ -5,7 +5,7 @@ nav_order: 2
 permalink: /docs/unirse
 ---
 
-# Unirse al Portal de Colecciones de Centroamérica
+# **Unirse al Portal de Colecciones de Centroamérica**
 
 
 Una cuenta no es necesaria para explorar la información contenida en el [Portal de Colecciones de Centroamérica](https://centroamerica.symbiota.gt), pero le permitirá a los miembros realizar operaciones adicionales como dejar comentarios en los registros, o generar listados de especies. Los curadores o encargados de colecciones, además, pueden **solicitar** [**perfiles de manejo de colecciones**](https://portacca.github.io/docs/colecciones/solicitud).
