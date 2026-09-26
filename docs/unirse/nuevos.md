@@ -28,7 +28,7 @@ Una cuenta no es necesaria para explorar la información contenida en el [Portal
 
 - Ingresar al [**Portal de Colecciones de Centroamérica**](https://centroamerica.github.io) y dirigirse a la esquina superior derecha y dar clic en [**"Iniciar Sesión"**](https://centroamerica.symbiota.org/portal/profile/index.php).
 
-|  [<img width="1531" height="874" alt="image" src="https://github.com/user-attachments/assets/22e335d8-5c5d-43b6-b662-41b5ceb09e0b" />](https://centroamerica.symbiota.org/portal/profile/index.php) |
+| [<img width="771" height="406" alt="image" src="https://github.com/user-attachments/assets/259556a7-ab8c-4146-9a21-952fb7cac366" />](https://centroamerica.symbiota.org/portal/profile/index.php)>|
 
 - Crear una [**Nueva Cuenta**](https://centroamerica.symbiota.org/portal/profile/newprofile.php).
 - Completar el formulario con un usuario o _login_ (recomendamos el formato nombre.apellido), nombre, apellido, contraseña (10 caracteres) y un correo electrónico.
