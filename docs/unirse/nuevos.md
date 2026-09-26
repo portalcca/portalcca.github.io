@@ -37,7 +37,7 @@ Una cuenta no es necesaria para explorar la información contenida en el [Portal
 - Generar cuenta (crear usuario).
 - Para ingresar al portal debe ingresar su **usuario** (login) y la **contraseña**. No confundir el login con el correo electrónico.
 
-| [<img width="1615" height="1177" alt="image" src="https://github.com/user-attachments/assets/da4b8630-0141-4884-b6fc-64e8df7137a8" />](https://biodiversidad.gt) |
+| [<img width="1258" height="1006" alt="image" src="https://github.com/user-attachments/assets/46f47c92-4e2a-40c8-921c-49323c890d8a" />](https://centroamerica.symbiota.org/portal/profile/newprofile.php) |
 
 ---
 
