@@ -11,7 +11,7 @@ permalink: /docs/unirse
 Una cuenta no es necesaria para explorar la información contenida en el [Portal de Colecciones Centroamericanas](https://centroamerica.symbiota.gt), pero le permitirá a los miembros realizar operaciones adicionales como dejar comentarios en los registros, o generar listados de especies. Los curadores o encargados de colecciones, además, pueden **solicitar** [**perfiles de manejo de colecciones**](https://portacca.github.io/docs/colecciones/solicitud).
 {: .fs-5 .fw-300 }
 
-[Crear Cuenta](https://centroamerica.symbiota.org/portal/profile/newprofile.ph){: .btn .btn-purple } 
+[Crear Cuenta](https://centroamerica.symbiota.org/portal/profile/newprofile.php){: .btn .btn-purple } 
 [Solicitar un Perfil de Colección](https://portalcca.github.io/docs/colecciones/solicitud/){: .btn .btn-purple } 
 
 ---
