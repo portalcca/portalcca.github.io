@@ -16,14 +16,6 @@ Una cuenta no es necesaria para explorar la información contenida en el [Portal
 
 ---
 
-## Table of Content
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
 ## Crear una cuenta
 
 - Ingresar al [**Portal de Colecciones de Centroamérica**](https://centroamerica.github.io) y dirigirse a la esquina superior derecha y dar clic en [**"Iniciar Sesión"**](https://centroamerica.symbiota.org/portal/profile/index.php).
