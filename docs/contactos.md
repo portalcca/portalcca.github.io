@@ -11,6 +11,7 @@ nav_order: 15
 ## Portal de Colecciones Centroamericanas de Biodiversidad
 
 ---
+<img style="float: left;" width="300" height="400" alt="SOre" src="https://github.com/samantaorellana/samantaorellana.github.io/blob/main/assets/theme/images/HeaderPhotowhite2.png?raw=true">
 
 ## Samanta Orellana 
 
@@ -40,6 +41,4 @@ Hi there! ......................................................................
 
 Hi there! ..........................................................................................................................................................................................................................................................................................................................................................................................
 
----
-<img style="float: left;" width="300" height="400" alt="SOre" src="https://github.com/samantaorellana/samantaorellana.github.io/blob/main/assets/theme/images/HeaderPhotowhite2.png?raw=true">
 
