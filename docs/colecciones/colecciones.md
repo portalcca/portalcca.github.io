@@ -7,12 +7,12 @@ nav_order: 4
 
 # **Colecciones Participantes**
 
-## Guatemala
+## **Guatemala**
 
-## El Salvador
+## **El Salvador**
 
-## Costa Rica
+## **Costa Rica**
 
 ### Universidad de Costa Rica, Sede Guanacaste
-- [Colección Entomológica de la Carrera de Agronomía](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&emode=1)
-- [Colección de Semillas de la Carrera de Agronomía](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=2&emode=1)
+- [Colección Entomológica de la Carrera de Agronomía](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1)
+- [Colección de Semillas de la Carrera de Agronomía](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=2)
