@@ -18,6 +18,8 @@ Plataforma especializada en la digitalización y movilización de Colecciones Bi
 
 | <img width="760" height="616" alt="image (8)" src="https://github.com/user-attachments/assets/866b210a-fdd7-4dca-8e64-b2e3d8f05e55" /> |
 
+| <img width="1819" height="1372" alt="image" src="https://github.com/user-attachments/assets/2c6b08b8-7a13-4ab4-ae4d-5930ba91afd9" /> |
+
 
 ¡Nuevo portal muy pronto!
 
