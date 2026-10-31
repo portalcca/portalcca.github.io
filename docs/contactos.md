@@ -24,6 +24,7 @@ Mentora y coordinadora del Portal de Colecciones de Centroamérica. Bióloga y e
 
 ## Maura Quezada
 [_ORCID_](https://orcid.org/0000-0002-8982-4350) [_Bionomia_](https://bionomia.net/0000-0002-8982-4350)
+
 Curadora del Herbario USCG, desde donde ha coordinado la digitalización de más de 20,000 especímenes de plantas, hongos y líquenes. Lidera el Proyecto BID-REG2025-81 desde Guatemala. 
 
 ---
