@@ -55,6 +55,10 @@ El Portal de [Colecciones Centroamericanas de Biodiversidad](https://centroameri
 ### **Museo de Insectos, Centro de Investigaciones en Protección de Cultivos, Universidad de Costa Rica**
 - [Museo de Insectos](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=20)
 
+### **Organización para Estudios Tropicales**
+- Colección de Insectos, Estación Biológica La Selva
+- Herbario, Estación Biológica La Selva
+
 ### **Universidad de Costa Rica, Sede Guanacaste**
 - [Colección Entomológica de la Carrera de Agronomía](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1)
 - [Colección de Semillas de la Carrera de Agronomía](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=2)
