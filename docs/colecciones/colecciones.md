@@ -7,10 +7,7 @@ nav_order: 4
 
 # **Colecciones Participantes**
 
-El Portal de [Colecciones Centroamericanas de Biodiversidad](https://centroamerica.symbiota.org) fue generado como parte del [Proyecto BID-REG2025-81](https://www.gbif.org/project/BID-REG2025-081/increasing-open-biodiversity-information-in-central-america-through-digitized-collections) para facilitar la digitalización de especímenes en la región. A continuación, se enumeran las colecciones que serán digitalizadas por los socios participantes del proyecto. 
-
-<img width="8146" height="420" alt="participantlogos" src="https://github.com/user-attachments/assets/05ce1f31-d1e4-4114-a245-576963988e87" />
-
+El Portal de [Colecciones Centroamericanas de Biodiversidad](https://centroamerica.symbiota.org) fue generado con el apoyo de la [Unión Europea](https://european-union.europa.eu/index_en), [GBIF](https://gbif.org) y el equipo [Symbiota](https://symbiota.org) en la Universidad de Kansas, como parte del [Proyecto BID-REG2025-81](https://www.gbif.org/project/BID-REG2025-081/increasing-open-biodiversity-information-in-central-america-through-digitized-collections) para facilitar la digitalización de especímenes en la región. A continuación, se enumeran las colecciones que serán digitalizadas por los socios participantes del proyecto. 
 
 ## **Guatemala**
 
