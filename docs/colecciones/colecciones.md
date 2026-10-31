@@ -9,6 +9,9 @@ nav_order: 4
 
 El Portal de [Colecciones Centroamericanas de Biodiversidad](https://centroamerica.symbiota.org) fue generado con el apoyo de la [Unión Europea](https://european-union.europa.eu/index_en), [GBIF](https://gbif.org) y el equipo [Symbiota](https://symbiota.org) en la Universidad de Kansas, como parte del [Proyecto BID-REG2025-81](https://www.gbif.org/project/BID-REG2025-081/increasing-open-biodiversity-information-in-central-america-through-digitized-collections) para facilitar la digitalización de especímenes en la región. A continuación, se enumeran las colecciones que serán digitalizadas por los socios participantes del proyecto. 
 
+<img width="1280" height="400" alt="LanzamientoBanner" src="https://github.com/user-attachments/assets/3b663189-e90a-4ad9-aa92-7852cb0e7e54" />
+
+
 ## **Guatemala**
 
 ### **Centro de Estudios Conservacionistas, Universidad de San Carlos de Guatemala**
