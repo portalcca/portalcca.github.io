@@ -11,6 +11,7 @@ El Portal de [Colecciones Centroamericanas de Biodiversidad](https://centroameri
 
 <img width="1280" height="400" alt="LanzamientoBanner" src="https://github.com/user-attachments/assets/3b663189-e90a-4ad9-aa92-7852cb0e7e54" />
 
+---
 
 ## **Guatemala**
 
