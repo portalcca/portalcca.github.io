@@ -9,6 +9,9 @@ nav_order: 4
 
 El Portal de [Colecciones Centroamericanas de Biodiversidad](https://centroamerica.symbiota.org) fue generado como parte del [Proyecto BID-REG2025-81](https://www.gbif.org/project/BID-REG2025-081/increasing-open-biodiversity-information-in-central-america-through-digitized-collections) para facilitar la digitalización de especímenes en la región. A continuación, se enumeran las colecciones que serán digitalizadas por los socios participantes del proyecto. 
 
+<img width="8146" height="420" alt="participantlogos" src="https://github.com/user-attachments/assets/05ce1f31-d1e4-4114-a245-576963988e87" />
+
+
 ## **Guatemala**
 
 ### **Centro de Estudios Conservacionistas, Universidad de San Carlos de Guatemala**
@@ -20,7 +23,7 @@ El Portal de [Colecciones Centroamericanas de Biodiversidad](https://centroameri
 - Colección Paleontológica de Vertebrados (manejada en vivo en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=50))
 
 ### **Instituto Nacional de Bosques**
-- [Colección de Entomología Forestal]() (manejada en vivo en el Portal de [Biodiversidad de Guatemala](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=137))
+- Colección de Entomología Forestal (manejada en vivo en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=137))
 
 ## **El Salvador**
 
