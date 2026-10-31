@@ -11,20 +11,20 @@ El Portal de [Colecciones Centroamericanas de Biodiversidad](https://centroameri
 
 ## **Guatemala**
 
-### Centro de Estudios Conservacionistas, Universidad de San Carlos de Guatemala
-- Herbario USCG-Líquenes (manejada en vivo desde el Portal de Biodiversidad de Guatemala)
-- Herbario USCG-Briófitos (manejada en vivo desde el Portal de Biodiversidad de Guatemala)
+### **Centro de Estudios Conservacionistas, Universidad de San Carlos de Guatemala**
+- Herbario USCG-Líquenes (manejada en vivo en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=91))
+- Herbario USCG-Briófitos (manejada en vivo en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=128))
 
-### Escuela de Biología, Universidad de San Carlos de Guatemala
-- Colección de Poliquetos (manejada en vivo desde el Portal de Biodiversidad de Guatemala)
-- Colección Paleontológica de Vertebrados (manejada en vivo desde el Portal de Biodiversidad de Guatemala)
+### **Escuela de Biología, Universidad de San Carlos de Guatemala**
+- Colección de Poliquetos
+- Colección Paleontológica de Vertebrados (manejada en vivo en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=50))
 
-### Instituto Nacional de Bosques
-- Colección de Entomología Forestal (manejada en vivo desde el Portal de Biodiversidad de Guatemala)
+### **Instituto Nacional de Bosques**
+- [Colección de Entomología Forestal]() (manejada en vivo en el Portal de [Biodiversidad de Guatemala](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=137))
 
 ## **El Salvador**
 
-### Escuela de Biología, Universidad de El Salvador 
+### **Escuela de Biología, Universidad de El Salvador** 
 - [Colección de Abejas Polinizadoras](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=21)
 - [Colección de Aves](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=4)
 - [Colección de Invertebrados Marinos](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=5)
@@ -36,7 +36,7 @@ El Portal de [Colecciones Centroamericanas de Biodiversidad](https://centroameri
 
 ## **Costa Rica**
 
-### Centro de Investigación en Biodiversidad y Ecología Tropical, Universidad de Costa Rica
+### **Centro de Investigación en Biodiversidad y Ecología Tropical, Universidad de Costa Rica**
 - [Herbario Luis Fornier Origgi - Algas](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=11)
 - [Herbario Luis Fornier Origgi - Hongos](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=10)
 - [Herbario Luis Fornier Origgi - Plantas Vasculares](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=9)
@@ -45,9 +45,9 @@ El Portal de [Colecciones Centroamericanas de Biodiversidad](https://centroameri
 - [Museo de Zoología - Colección de Ictiología](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=12)
 - [Museo de Zoología - Colección de Mamíferos](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=15)
 
-### Museo de Insectos, Centro de Investigaciones en Protección de Cultivos, Universidad de Costa Rica
+### **Museo de Insectos, Centro de Investigaciones en Protección de Cultivos, Universidad de Costa Rica**
 - [Museo de Insectos](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=20)
 
-### Universidad de Costa Rica, Sede Guanacaste
+### **Universidad de Costa Rica, Sede Guanacaste**
 - [Colección Entomológica de la Carrera de Agronomía](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1)
 - [Colección de Semillas de la Carrera de Agronomía](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=2)
