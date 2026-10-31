@@ -34,7 +34,7 @@ Curadora del Herbario USCG del Centro de Estudios Conservacionistas (CECON), Uni
 ## Dora Armero
 [_ORCID_](https://orcid.org/0009-0004-5485-5183)
 
-Curadora de la Colección de Aves y Secretaria Académica de la Escuela de Biología, Universidad de El Salvador.
+Curadora de la Colección de Aves y Secretaria Académica de la Escuela de Biología, Universidad de El Salvador. Coordina actividades del Proyecto BID-REG2025-81 en El Salvador.
 
 ---
 
