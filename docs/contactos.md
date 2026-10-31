@@ -16,7 +16,7 @@ nav_order: 15
 ## Samanta Orellana 
 [_ORCID_](https://orcid.org/0000-0002-4098-5823) | [_Bionomia_](https://bionomia.net/0000-0002-4098-5823)
 
-Mentora y coordinadora del Portal de Colecciones de Centroamérica. Bióloga y entomóloga guatemalteca. Como parte del [equipo Symbiota](https://symbiota.org/about-us/) y la [red de GBIF](https://www.gbif.org/mentors), colabora activamente con colecciones latinoamericanas para avanzar sus iniciativas de datos de biodiversidad. Contacto: [samanta.orellana at ku.edu].
+Mentora y coordinadora del Portal de Colecciones de Centroamérica. Bióloga y entomóloga guatemalteca. Como parte del [equipo Symbiota](https://symbiota.org/about-us/) y la [red de GBIF](https://www.gbif.org/mentors), colabora activamente con colecciones latinoamericanas para avanzar sus iniciativas de datos de biodiversidad.
 
 ---
 
