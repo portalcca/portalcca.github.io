@@ -25,22 +25,43 @@ Mentora y coordinadora del Portal de Colecciones de Centroamérica. Bióloga y e
 ## Maura Quezada
 [_ORCID_](https://orcid.org/0000-0002-8982-4350) | [_Bionomia_](https://bionomia.net/0000-0002-8982-4350)
 
-Curadora del Herbario USCG, desde donde ha coordinado la digitalización de más de 20,000 especímenes de plantas, hongos y líquenes. Lidera el Proyecto BID-REG2025-81 desde Guatemala. 
+Curadora del Herbario USCG del Centro de Estudios Conservacionistas, Universidad de San Carlos de Guatemala. Ha coordinado la digitalización de más de 20,000 especímenes de plantas, hongos y líquenes desde el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt). Lidera el Proyecto BID-REG2025-81 desde Guatemala. 
 
 ---
 
 <img style="float: left;" width="300" height="400" alt="SOre" src="https://github.com/portalcca/portalcca.github.io/blob/main/static/contacts/Headerwhite.png?raw=true">
 
-## Representante El Salvador
+## Dora Armero
+[_ORCID_](https://orcid.org/0009-0004-5485-5183)
 
-Hi there! ..........................................................................................................................................................................................................................................................................................................................................................................................
+Curadora de la Colección de Aves de la Universidad de El Salvador. 
 
 ---
 
 <img style="float: left;" width="300" height="400" alt="SOre" src="https://github.com/portalcca/portalcca.github.io/blob/main/static/contacts/Headerwhite.png?raw=true">
 
-## Representante Costa Rica
+## Gabriel Cerén
+[_ORCID_](https://orcid.org/0000-0003-1234-1374)
 
-Hi there! ..........................................................................................................................................................................................................................................................................................................................................................................................
+Curador del Herbario ITIC en la Universidad de El Salvador. 
+
+---
+
+<img style="float: left;" width="300" height="400" alt="SOre" src="https://github.com/portalcca/portalcca.github.io/blob/main/static/contacts/Headerwhite.png?raw=true">
+
+## Monika Springer
+[_ORCID_](https://orcid.org/0000-0003-0926-1322)
+
+Coordinadora del Centro de Investigación en Biodiversidad y Ecología Tropical, Universidad de Costa Rica. 
+
+---
+
+<img style="float: left;" width="300" height="400" alt="SOre" src="https://github.com/portalcca/portalcca.github.io/blob/main/static/contacts/Headerwhite.png?raw=true">
+
+## Mario Blanco
+[_ORCID_](https://orcid.org/0000-0001-7369-5411)
+
+Curador Herbario Luis A. Fournier Origgi, Centro de Investigación en Biodiversidad y Ecología Tropical, Universidad de Costa Rica. 
+
 
 
