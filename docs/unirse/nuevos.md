@@ -39,4 +39,4 @@ Dependiendo de las actividades realizadas dentro del Portal de Biodiversidad, lo
 
 **- Usuarios generales:** Únicamente desean explorar los datos contenidos en el Portal. No necesitan realizar más acciones luego de generar su cuenta.
 
-**- Encargados de colecciones:** Desean formar parte del Portal de Biodiversidad. Pueden solicitar uno o varios [perfiles de manejo de colecciones]
+**- Encargados de colecciones:** Desean formar parte del Portal de Biodiversidad. Pueden solicitar uno o varios [perfiles de manejo de colecciones](https://tinyurl.com/unirseportalca)
