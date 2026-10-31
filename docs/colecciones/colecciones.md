@@ -37,12 +37,16 @@ El Portal de [Colecciones Centroamericanas de Biodiversidad](https://centroameri
 ## **Costa Rica**
 
 ### **Centro de Investigación en Biodiversidad y Ecología Tropical, Universidad de Costa Rica**
-- [Herbario Luis Fornier Origgi - Algas](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=11)
-- [Herbario Luis Fornier Origgi - Hongos](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=10)
-- [Herbario Luis Fornier Origgi - Plantas Vasculares](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=9)
+- [Herbario Luis Fournier Origgi - Algas](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=11)
+- [Herbario Luis Fournier Origgi - Hongos](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=10)
+- [Herbario Luis Fournier Origgi - Plantas Vasculares](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=9)
 - [Museo de Zoología - Colección de Aves](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=14)
+- [Museo de Zoología - Colección de Cnidarios](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=18)
+- [Museo de Zoología - Colección de Crustáceos](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=18)
 - [Museo de Zoología - Colección de Herpetología](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=13)
 - [Museo de Zoología - Colección de Ictiología](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=12)
+- [Museo de Zoología - Colección de Insectos](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=16)
+- [Museo de Zoología - Colección de Insectos](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=19)
 - [Museo de Zoología - Colección de Mamíferos](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=15)
 
 ### **Museo de Insectos, Centro de Investigaciones en Protección de Cultivos, Universidad de Costa Rica**
