@@ -12,7 +12,7 @@ Una cuenta no es necesaria para explorar la información contenida en el [Portal
 {: .fs-5 .fw-300 }
 
 [Crear Cuenta](https://centroamerica.symbiota.org/portal/profile/newprofile.php){: .btn .btn-purple } 
-[Solicitar un Perfil de Colección](https://portalcca.github.io/docs/colecciones/solicitud/){: .btn .btn-purple } 
+[Solicitar un Perfil de Colección](https://tinyurl.com/unirseportalca){: .btn .btn-purple } 
 
 ---
 
