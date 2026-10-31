@@ -20,7 +20,7 @@ El Portal de [Colecciones Centroamericanas de Biodiversidad](https://centroameri
 - Herbario USCG-Briófitos (manejada en vivo en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=128))
 
 ### **Escuela de Biología, Universidad de San Carlos de Guatemala**
-- Colección de Poliquetos
+- Colección de Poliquetos (manejada en vivo en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=172))
 - Colección Paleontológica de Vertebrados (manejada en vivo en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=50))
 
 ### **Instituto Nacional de Bosques**
