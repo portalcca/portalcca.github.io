@@ -14,7 +14,7 @@ Una cuenta en el [Portal de Colecciones Centroamericanas](https://centroamerica.
 [Crear Cuenta](https://centroamerica.symbiota.org/portal/profile/newprofile.php){: .btn .btn-purple } 
 [Solicitar un Perfil de Colección](https://tinyurl.com/unirseportalca){: .btn .btn-purple } 
 
-<img width="1280" height="400" alt="LanzamientoBanner" src="https://github.com/user-attachments/assets/3b663189-e90a-4ad9-aa92-7852cb0e7e54" />
+| <img width="1280" height="400" alt="LanzamientoBanner" src="https://github.com/user-attachments/assets/3b663189-e90a-4ad9-aa92-7852cb0e7e54" /> |
 
 ---
 
