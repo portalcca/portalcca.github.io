@@ -10,6 +10,13 @@ nav_order: 2
 
 ---
 
+## Webinar: Digitalización de Colecciones de Biodiversidad en Portales Symbiota
+_¡Muy pronto!_
+
+Primer webinar de la serie "Digitalización y Movilización de Colecciones Centroamericanas de Biodiversidad". El enlace de registro estará disponible pronto.
+
+---
+
 ## Encuesta Comunitaria para Colecciones Centroamericanas
 _Activa hasta el 20 de noviembre de 2026_
 
