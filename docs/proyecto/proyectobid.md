@@ -15,15 +15,13 @@ Iniciativa financiada por la Unión Europea y la Instalación Global de Biodiver
 
 ---
 
-## **El Proyecto**
-
 El [Proyecto BID-REG2025-81](https://www.gbif.org/project/BID-REG2025-081/increasing-open-biodiversity-information-in-central-america-through-digitized-collections) "Incrementando la Información Abierta de Biodiversidad en Centroamérica a través de Colecciones Digitalizadas" inició en septiembre de 2026, con el objetivo de digitalizar y movilizar a GBIF colecciones científicas en Guatemala, El Salvador y Costa Rica. Para este fin, se generó un nuevo [portal Symbiota](https://centroamerica.symbiota.org) para la región, motivado por el éxito del [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) para movilizar colecciones en ese país. Durante los próximos dos años, se realizará una serie de [actividades](https://portalcca.github.io/docs/comunidad/actividades/) para incrementar capacidades en la región y facilitar la integración de otras instituciones centroamericanas.
 
 | <img width="1321" height="940" alt="image" src="https://github.com/user-attachments/assets/6cf2790c-d392-4cae-95a0-87b44921fc0c" /> |
 
 ---
 
-## **Socios participantes**
+## Socios participantes
 
 | <img width="2545" height="1426" alt="BID_Sep2026Meeting" src="https://github.com/user-attachments/assets/cfd4471a-dd09-4932-9d8d-aad039faea51" /> |
 |---|
