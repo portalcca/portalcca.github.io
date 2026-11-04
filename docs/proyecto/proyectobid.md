@@ -10,8 +10,7 @@ permalink: /docs/bidca
 Iniciativa financiada por la Unión Europea y la Instalación Global de Biodiversidad por medio del Programa de Información de Biodiversidad para el Desarrollo para Latinoamérica -[BID 2025](https://www.gbif.org/news/4uU4o1vqXN95wBTnHS5ZTl/2025-bid-call-for-proposals-regional-and-cross-regional-biodiversity-data-mobilization-projects-closed)-
 {: .fs-5 .fw-300 }
 
-[Proyecto en GBIF](https://www.gbif.org/project/BID-REG2025-081/increasing-open-biodiversity-information-in-central-america-through-digitized-collections){: .btn .btn-purple } 
-[Actividades](https://portalcca.github.io/docs/comunidad/actividades/){: .btn .btn-purple } 
+[Proyecto en GBIF](https://www.gbif.org/project/BID-REG2025-081/increasing-open-biodiversity-information-in-central-america-through-digitized-collections){: .btn .btn-purple } [Portal](https://centroamerica.symbiota.org){: .btn .btn-purple } [Actividades](https://portalcca.github.io/docs/proyecto/actividades/){: .btn .btn-purple } 
 
 ---
 
