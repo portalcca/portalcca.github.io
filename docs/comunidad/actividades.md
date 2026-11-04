@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Actividades
-parent: proyectobid
+parent: Proyecto BID
 has_children: true
-nav_order: 3
+nav_order: 2
 ---
 
 # **Actividades**
