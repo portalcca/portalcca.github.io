@@ -21,7 +21,9 @@ El [Proyecto BID-REG2025-81](https://www.gbif.org/project/BID-REG2025-081/increa
 
 <img width="1321" height="940" alt="image" src="https://github.com/user-attachments/assets/6cf2790c-d392-4cae-95a0-87b44921fc0c" />
 
-### **Socios participantes**
+---
+
+## **Socios participantes**
 
 **Guatemala**
 - Centro de Estudios Conservacionistas, Universidad de San Carlos de Guatemala
