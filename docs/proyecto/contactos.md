@@ -5,13 +5,10 @@ parent: Proyecto BID
 nav_order: 3
 ---
 
-# **Contactos**
+# **Contactos Proyecto BID-REG2025-81**
 
 ---
 
-## Contactos Proyecto BID-REG2025-81
-
----
 ## Samanta Orellana 
 [_ORCID_](https://orcid.org/0000-0002-4098-5823) | [_Bionomia_](https://bionomia.net/0000-0002-4098-5823)
 
