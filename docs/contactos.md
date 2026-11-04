@@ -20,7 +20,7 @@ Mentora y coordinadora del Portal de Colecciones de Centroamérica. Bióloga y e
 
 ---
 
-<img style="float: left;" width="300" height="400" alt="SOre" src="https://github.com/portalcca/portalcca.github.io/blob/main/static/contacts/Headerwhite.png?raw=true">
+<img style="float: left;" width="300" height="400" alt="SOre" src="https://github.com/portalcca/portalcca.github.io/blob/main/static/contacts/MQuezada.png?raw=true">
 
 ## Maura Quezada
 [_ORCID_](https://orcid.org/0000-0002-8982-4350) | [_Bionomia_](https://bionomia.net/0000-0002-8982-4350)
