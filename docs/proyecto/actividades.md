@@ -10,6 +10,15 @@ nav_order: 2
 
 ---
 
+## Encuesta Comunitaria para Colecciones Centroamericanas
+_Activa hasta el 20 de noviembre de 2026_
+
+Esta [encuesta](https://tinyurl.com/encuestabidca) tiene como objetivo conocer el estado de digitalización de colecciones centroamericanas. Las actividades de capacitación serán construidas con base en las necesidades de la región, para incrementar y agilizar las tareas de digitalización y movilización de datos de especímenes de biodiversidad, incluyendo fósiles. 
+
+| [<img width="1299" height="729" alt="image" src="https://github.com/user-attachments/assets/3dfd20db-9a1b-44f8-a097-ebe882cd3409" />](https://tinyurl.com/encuestabidca) |
+
+---
+
 ## Lanzamiento Portal de Colecciones Centroamericanas
 _29 de octubre de 2026_
 
