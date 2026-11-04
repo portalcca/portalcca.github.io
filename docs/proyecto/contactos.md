@@ -1,14 +1,15 @@
 ---
 layout: default
 title: Contactos 
-nav_order: 15
+parent: Proyecto BID
+nav_order: 3
 ---
 
 # **Contactos**
 
 ---
 
-## Portal de Colecciones Centroamericanas de Biodiversidad
+## Contactos Proyecto BID-REG2025-81
 
 ---
 <img style="float: left;" width="300" height="400" alt="SOre" src="https://github.com/samantaorellana/samantaorellana.github.io/blob/main/assets/theme/images/HeaderPhotowhite2.png?raw=true">
