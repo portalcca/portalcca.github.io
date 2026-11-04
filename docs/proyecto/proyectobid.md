@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unirse al Portal 
+title: Proyecto BID 
 nav_order: 10
 permalink: /docs/bidca
 ---
