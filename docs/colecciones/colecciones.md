@@ -34,7 +34,6 @@ El Portal de [Colecciones Centroamericanas de Biodiversidad](https://centroameri
 - [Colección de Invertebrados Marinos](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=5)
 - [Colección de Libélulas](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=8)
 - [Colección de Micromamíferos](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=7)
-- [Colección de Moluscos](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=24)
 - [Colección de Peces](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=24)
 - [Herbario ITIC](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=3)
 
