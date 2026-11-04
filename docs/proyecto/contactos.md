@@ -12,7 +12,7 @@ nav_order: 3
 ## Contactos Proyecto BID-REG2025-81
 
 ---
-<img style="float: left;" width="300" height="400" alt="SOre" src="https://github.com/samantaorellana/samantaorellana.github.io/blob/main/assets/theme/images/HeaderPhotowhite2.png?raw=true">
+<img style="float: left;" width="200" height="300" alt="SOre" src="https://github.com/samantaorellana/samantaorellana.github.io/blob/main/assets/theme/images/HeaderPhotowhite2.png?raw=true">
 
 ## Samanta Orellana 
 [_ORCID_](https://orcid.org/0000-0002-4098-5823) | [_Bionomia_](https://bionomia.net/0000-0002-4098-5823)
