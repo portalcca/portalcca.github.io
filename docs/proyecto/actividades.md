@@ -8,6 +8,9 @@ nav_order: 2
 
 # **Actividades**
 
+Actividades derivadas del Proyecto BID-REG2025-81 [_"Incrementando la información abierta de biodiversidad en Centroamérica a través de Colecciones Digitalizadas"_](https://www.gbif.org/project/BID-REG2025-081/increasing-open-biodiversity-information-in-central-america-through-digitized-collections), financiado por la Unión Europea y la Instalación Global de Biodiversidad por medio del Programa de Información de Biodiversidad para el Desarrollo para Latinoamérica -[BID 2025](https://www.gbif.org/news/4uU4o1vqXN95wBTnHS5ZTl/2025-bid-call-for-proposals-regional-and-cross-regional-biodiversity-data-mobilization-projects-closed)-
+{: .fs-5 .fw-300 }
+
 ---
 
 ## Webinar: Digitalización de Colecciones de Biodiversidad en Portales Symbiota
