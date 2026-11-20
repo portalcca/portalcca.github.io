@@ -11,9 +11,13 @@ nav_order: 2
 ---
 
 ## Webinar: Digitalización de Colecciones de Biodiversidad en Portales Symbiota
-_¡Muy pronto!_
+_30 de noviembre de 2026_
 
-Primer webinar de la serie "Digitalización y Movilización de Colecciones Centroamericanas de Biodiversidad". El enlace de registro estará disponible pronto.
+Primer webinar de la serie "Digitalización y Movilización de Colecciones Centroamericanas de Biodiversidad". Dirigido a curadores e investigadores asociados a colecciones. 
+Registro [aquí](https://tinyurl.com/bidcawebinar1).
+
+| [<img width="6729" height="4579" alt="Cartel_WebinarSymbiota" src="https://github.com/user-attachments/assets/0f5fc1b1-935d-4273-badd-0e71949a5e6f" />](https://tinyurl.com/bidcawebinar1) |
+
 
 ---
 
