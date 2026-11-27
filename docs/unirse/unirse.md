@@ -8,7 +8,7 @@ permalink: /docs/unirse
 # **Unirse al Portal de Colecciones Centroamericanas**
 
 
-Activar una cuenta en el [Portal de Colecciones Centroamericanas](https://centroamerica.symbiota.gt) le permitirá realizar búsquedas y operaciones adicionales como dejar comentarios en los registros, o generar listados de especies. Los curadores o encargados de colecciones pueden **solicitar** [**perfiles para digitalizar sus especímenes**](https://portacca.github.io/docs/colecciones/solicitud).
+Activar una cuenta en el [Portal de Colecciones Centroamericanas](https://centroamerica.symbiota.gt) le permitirá realizar búsquedas y operaciones adicionales como dejar comentarios en los registros, o generar listados de especies. Los curadores o encargados de colecciones pueden **solicitar** [**perfiles para digitalizar sus especímenes**](https://docs.google.com/forms/d/e/1FAIpQLSe5GgOEig-OpR504jHGftxOMaTOJCFKTqq9FGsiUk27Gt_Ktg/viewform?usp=sharing&ouid=109296095565129494906).
 {: .fs-5 .fw-300 }
 
 [Crear Cuenta](https://centroamerica.symbiota.org/portal/profile/newprofile.php){: .btn .btn-purple } 
