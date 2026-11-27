@@ -6,7 +6,7 @@ nav_order: 3
 permalink: /docs/guia
 ---
 
-# **Portal de Colecciones Centroamericanas: Guía Rápida para Curadores**
+# Guía Rápida para Curadores
 
 El [Portal de Colecciones Centroamericanas de Biodiversidad](https://centroamerica.symbiota.org) es una plataforma generada con [Symbiota](https://symbiota.org) para incrementar la movilización de datos desde instituciones de la región. A continuación se resumen los pasos necesarios para activar una cuenta y solicitar un perfil virtual para sus colecciones.
 {: .fs-5 .fw-300 }
@@ -49,13 +49,15 @@ El [Portal de Colecciones Centroamericanas de Biodiversidad](https://centroameri
 El **Portal de Colecciones Centroamericanas** está disponible para digitalizar todo tipo de colecciones de biodiversidad. El objetivo principal del portal es la digitalización y movilización de datos de **especímenes**, pero también cuenta con herramientas para manejar proyectos de **observaciones**. Para elegir la mejor forma de hacer uso del portal, primero debe evaluarse el **tipo de manejo** que van a tener sus colecciones en línea.
 
 ### Manejo de datos _en vivo_
+
 Para manejar sus datos directamente en el portal, es necesario contar con un perfil de **manejo en vivo**. Este tipo de manejo es recomendado para las colecciones que inician con la digitalización o que poseen un archivo plano de sus datos  (.csv, .txt) que pueden incorporar para empezar a trabajar en el portal.
 
 - Ejemplo: [Universidad de Costa Rica, Sede Guanacaste, Colección de Semillas de la Carrera de Agronomía](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=2)
 
 | [<img width="1567" height="1287" alt="image" src="https://github.com/user-attachments/assets/fd568da5-78db-4d5b-a30e-2230c0afc7e0" />](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=2) |
 
-### **Integración de una copia de los datos**
+### Integración de una copia de los datos
+
 Para seguir manejando sus datos en otra plataforma y únicamente compartir una copia en el portal, el tipo de perfil indicado es un **_snapshot_**. Recomendado para colecciones manejadas en otros portales Symbiota, otros sistemas, o ya publicadas en otros agregadores.
 
 - Ejemplo: [Colección Vertebrada de Nicaragua](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=22). Manejada en vivo en el [Portal de Colecciones de Vertebrados](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1124).
