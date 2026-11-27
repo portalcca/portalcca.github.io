@@ -16,7 +16,7 @@ El [Portal de Colecciones Centroamericanas de Biodiversidad](https://centroameri
 
 ---
 
-## Pasos
+## Cómo empezar
 {: .no_toc .text-delta }
 
 1. TOC
@@ -28,7 +28,7 @@ El [Portal de Colecciones Centroamericanas de Biodiversidad](https://centroameri
 
 ---
 
-## 1. Crear una cuenta en el Portal
+## Crear una cuenta en el Portal
 
 - Ingresar al [**Portal de Colecciones de Centroamérica**](https://centroamerica.github.io) y dirigirse a la esquina superior derecha y dar clic en [**"Iniciar Sesión"**](https://centroamerica.symbiota.org/portal/profile/index.php).
 
@@ -44,7 +44,7 @@ El [Portal de Colecciones Centroamericanas de Biodiversidad](https://centroameri
 | [<img width="1258" height="1006" alt="image" src="https://github.com/user-attachments/assets/46f47c92-4e2a-40c8-921c-49323c890d8a" />](https://centroamerica.symbiota.org/portal/profile/newprofile.php) |
 
 
-## 2. Considerar el tipo de datos de su colección
+## Considerar el tipo de datos de su colección
 
 El **Portal de Colecciones Centroamericanas** está disponible para digitalizar todo tipo de colecciones de biodiversidad. El objetivo principal del portal es la digitalización y movilización de datos de **especímenes**, pero también cuenta con herramientas para manejar proyectos de **observaciones**. Para elegir la mejor forma de hacer uso del portal, primero debe evaluarse el **tipo de manejo** que van a tener sus colecciones en línea.
 
@@ -64,14 +64,14 @@ Para seguir manejando sus datos en otra plataforma y únicamente compartir una c
 
 | [<img width="1567" height="1303" alt="image" src="https://github.com/user-attachments/assets/ff4e1920-ec6b-477b-8cfd-74b2b3344ac5" />](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=22) |
 
-## 3. Solicitar un perfil de colección
+## Solicitar un perfil de colección
 
 Una vez el encargado de la colección tenga una cuenta en el portal, debe completar este [formulario](https://tinyurl.com/unirseportalca) con la información acerca de la colección y el tipo de manejo a utilizar.  
 
 | [<img width="811" height="547" alt="image" src="https://github.com/user-attachments/assets/16705812-8194-4620-b771-a7ae2d320059" />](https://tinyurl.com/unirseportalca) |
 
 
-## 4. Empezar a digitalizar
+## Empezar a digitalizar
 
 Los administradores generarán un perfil de colección de acuerdo con la información compartida en el formulario. Una vez el perfil esté establecido, el solicitante (con una cuenta activa) será agregado como administrador del perfil virtual y podrá iniciar con el ingreso de datos de sus especímenes. 
 
