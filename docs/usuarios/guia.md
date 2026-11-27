@@ -11,7 +11,7 @@ permalink: /docs/guia
 El [Portal de Colecciones Centroamericanas de Biodiversidad](https://centroamerica.symbiota.org) es una plataforma generada con [Symbiota](https://symbiota.org) para incrementar la movilización de datos desde instituciones de la región. A continuación se resumen los pasos necesarios para activar una cuenta y solicitar un perfil virtual para sus colecciones.
 {: .fs-5 .fw-300 }
 
-[Crear Cuenta](https://centroamerica.symbiota.org/portal/profile/newprofile.php){: .btn .btn-purple } 
+[Crear una Cuenta](https://centroamerica.symbiota.org/portal/profile/newprofile.php){: .btn .btn-purple } 
 [Solicitar un Perfil de Colección](https://tinyurl.com/unirseportalca){: .btn .btn-purple } 
 
 ---
