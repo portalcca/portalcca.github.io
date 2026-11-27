@@ -30,19 +30,13 @@ El [Portal de Colecciones Centroamericanas de Biodiversidad](https://centroameri
 
 ## Crear una cuenta en el Portal
 
-- Ingresar al [**Portal de Colecciones de Centroamérica**](https://centroamerica.github.io) y dirigirse a la esquina superior derecha y dar clic en [**"Iniciar Sesión"**](https://centroamerica.symbiota.org/portal/profile/index.php).
-
-[<img width="1342" height="688" alt="image" src="https://github.com/user-attachments/assets/7a50465a-999d-4a15-8d8a-a38c58942365" />](https://centroamerica.symbiota.org/portal/profile/index.php)
-
-- Crear una [**Nueva Cuenta**](https://centroamerica.symbiota.org/portal/profile/newprofile.php).
-- Completar el formulario con un usuario o _login_ (recomendamos el formato nombre.apellido), nombre, apellido, contraseña (10 caracteres) y un correo electrónico.
-- De manera opcional, pueden agregar el [ORCID](https://orcid.org), título e institución a la que pertenecen.
-- Resolver el captcha y seleccionar la casilla **"No soy un robot"**.
-- Generar cuenta (crear usuario).
-- Para ingresar al portal debe ingresar su **usuario** (login) y la **contraseña**. No confundir el login con el correo electrónico.
+Para crear una **nueva Cuenta**, los usuarios deben completar este [formulario](https://centroamerica.symbiota.org/portal/profile/newprofile.php) con sus datos. Recomendamos la estructura **nombre.apellido** para la casilla de Usuario o _Login_. Las contraseñas deben ser seguras, con al menos 10 caracteres.
 
 | [<img width="1258" height="1006" alt="image" src="https://github.com/user-attachments/assets/46f47c92-4e2a-40c8-921c-49323c890d8a" />](https://centroamerica.symbiota.org/portal/profile/newprofile.php) |
 
+Una vez generada la cuenta, los usuarios pueden ingresar en el portal dando clic en el botón **Iniciar Sesión** para añadir su usuario (no correo electrónico) y contraseña.
+
+| [<img width="1342" height="688" alt="image" src="https://github.com/user-attachments/assets/7a50465a-999d-4a15-8d8a-a38c58942365" />](https://centroamerica.symbiota.org/portal/profile/index.php) |
 
 ## Considerar el tipo de datos de su colección
 
